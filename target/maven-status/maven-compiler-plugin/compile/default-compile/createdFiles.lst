@@ -1,0 +1,5 @@
+com\sheeba\jaxrs\Patient.class
+com\sheeba\jaxrs\Medicine.class
+com\sheeba\jaxrs\PatientServiceImpl.class
+com\sheeba\jaxrs\Prescription.class
+com\sheeba\jaxrs\PatientService.class
